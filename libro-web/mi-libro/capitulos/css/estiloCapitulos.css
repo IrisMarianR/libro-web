@@ -77,3 +77,64 @@ footer{
     justify-content: space-around;
     margin-top: 2pc;
 }
+.cajacapitulo2{
+    width: 130px;
+    border-radius: 15px;
+    justify-content: center;
+    padding: 1px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;  
+    text-align: center;
+    
+}
+.cajacapitulo2 p{
+    background-color: rgb(232, 255, 255);
+    border-radius: 7px;
+    padding: 1px;
+}
+
+.caja2capitulo2{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 1px;
+}
+#ImagenBastet{
+    width: 80px;
+}
+#GatosEgipto1{
+    width: 190px; 
+}
+#GatoRoma{
+    width: 160px;
+    border-radius: 30px;
+}
+#CuadroGatoRoma{
+    width: 215px;
+}
+#TumbaGato{
+    width: 270px;
+}
+#GatoGrecia{
+    width: 160px;
+    border-radius: 10px;
+}
+#maneki_neko{
+    width: 240px;
+    border-radius: 10px;
+
+}
+#diosa_Shashthi{
+    width: 160px;
+    border-radius: 10px;
+}
+#Gatos_Arte{
+    width: 240px;
+    border-radius: 30px;
+}
