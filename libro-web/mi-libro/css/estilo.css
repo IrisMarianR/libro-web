@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+
+html{
+    background-color: rgb(90, 186, 183);
+}
+
+nav{
+    background-color: rgb(172, 225, 218);
+    line-height: 3pc;
+    font-size: 100;
+    color: rgb(56, 64, 110);
+    border-bottom: solid 2px rgb(0, 0, 0);
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+h1{
+    padding: 1pc;
+}
+
+h1, h2, li{
+    text-align: center;
+}
+
+h1, h2, li, p, a, label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    height: 600px;
+    border-radius: 5px;
+}
+
+div{
+    background-color: rgb(172, 225, 218);
+    display:block;
+    margin-right: 25%;
+    margin-left: 25%;
+    border-radius: 5px;
+    width: auto;
+}
+
+aside{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 2pc;
+}
+
+.text{
+    height: 100px;
+    justify-content: center;
+}
+
+.submit{
+    height: 30px;
+}
+
+.sinopsis{
+    padding: 0 2pc 0;
+    text-align: justify;
+}
+
+.sinopsis2{
+    padding: 1pc;
+    text-align: center;
+}
+
+li{
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(56, 87, 53)
+}
+
+footer{
+    background-color: rgb(172, 225, 218);
+    line-height: 3pc;
+    font-size: 100;
+    color: rgb(56, 64, 110);
+    border-top: solid 2px rgb(0, 0, 0);
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2pc;
+}
