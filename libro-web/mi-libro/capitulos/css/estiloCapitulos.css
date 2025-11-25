@@ -29,7 +29,7 @@ h1, h2, p, a, li{
 }
 
 img{
-    height: 300px;
+    height: 200px;
     border-radius: 30px;
     padding: 1pc;
 }
@@ -137,4 +137,5 @@ footer{
 #Gatos_Arte{
     width: 240px;
     border-radius: 30px;
+
 }
